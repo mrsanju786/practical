@@ -9,6 +9,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
+        "barryvdh/laravel-debugbar": "^3.5",
         "barryvdh/laravel-dompdf": "^0.9.0",
         "cartalyst/stripe-laravel": "^13.1",
         "doctrine/dbal": "^3.0",
